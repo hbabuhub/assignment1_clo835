@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Python API Server
 
@@ -72,3 +73,6 @@ This project is licensed under the GPLv3.
 
 ---
 
+=======
+# assignment1_clo835
+>>>>>>> origin/master
